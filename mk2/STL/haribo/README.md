@@ -8,6 +8,8 @@ Deviations from the reference build is at your own discreation
 
 Y axis parts by [ljmarent](https://www.tinkercad.com/users/fxmddmDDOJt-ljmarent) to beef up the motor mount and to provide a way to adjust tension
 
+Dual Meanwell LRS-350 psu cover by [ljmarent](https://www.tinkercad.com/users/fxmddmDDOJt-ljmarent) powering the heatbed with one and everything else with the other
+
 # Instructions
 
 Recomended using PETG or other high temp filament, using at least 4 top, 4 bottom, 3 perimeters and 35% infill.
